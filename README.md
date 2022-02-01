@@ -16,4 +16,4 @@ This example is a small [Deno](https://deno.land/) webserver!
 
 ## 📝 Notes
 
-This is an experimental example and should not be used in production.
+This is an experimental example and should not be used in production
